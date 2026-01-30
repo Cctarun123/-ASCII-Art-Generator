@@ -31,7 +31,7 @@ Python 3.x
 
 Clone the repository:
 
-git clone https://github.com/your-username/ascii-art-generator.git
+git clone https://github.com/Cctarun123/-ASCII-Art-Generator
 
 Move into the project directory:
 cd ascii-art-generator
